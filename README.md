@@ -10,7 +10,7 @@
 - Ha sido probado en ROMs estilo AOSP (CrDroid, Pixel, etc). No se garantiza su funcionamento en ROMs con capas gráficas complejas (Miui, por ejemplo).
 
 ## Descarga
-- https://github.com/CrazyBytesVE/36-DPI-NavBar-Mod/releases/
+- https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/releases/
 
 ---
 ## Créditos
@@ -34,7 +34,7 @@
 - Tested on AOSP style ROMs (CrDroid, Pixel, etc). Not guaranteed to work on ROMs with complex graphical layers (Miui, for example).
 
 ## Download
-- https://github.com/CrazyBytesVE/36-DPI-NavBar-Mod/releases/
+- https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/releases/
 
 ---
 ## Credits
